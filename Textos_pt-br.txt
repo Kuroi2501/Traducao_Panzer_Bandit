@@ -1,0 +1,600 @@
+Intro
+
+Esse é "Canadyne", um mundo onde a magia
+e a energia a vapor coexistem em harmonia.
+
+Neste mundo existem várias ruínas e tradições
+que foram deixadas pelo tempo.
+
+Uma dessas tradições é a lenda do navio
+flutuante "Ark", que era protegido pelo
+demônio de aço chamado "Sync".
+
+Ark...
+Dizem que a arca que flutua no distante
+céu azul, além de conter grandes tesouros,
+possui também a sabedoria deixada por
+antigas civilizações.
+
+Há um antigo documento que diz assim:
+"Aquele que obter Ark será o rei do mundo."
+
+------------------------------------------------------------
+
+Abertura
+
+Coulomb
+O que isso significa!?
+Do que está falando, Farad!?
+
+Hahahahaha!
+Eu nunca apoiaria a pesquisa de Sync só por Hobby!
+
+Golden
+Muahaha!
+Esse é um direito básico de nossa Fundação.
+
+Coulomb
+Então era isso...?
+Ark era o seu alvo desde o início!?
+
+Golden
+Muahahaha!
+Os resultados obtidos na pesquisa com os Sync tornaram-se um negócio lucrativo,
+
+Golden
+mas eram pequenos demais, se comparados ao tesouro de Ark.
+
+Farad
+Nós não temos interesse em dinheiro.
+Só queremos a sabedoria da antiga civilização!
+
+Golden
+Muahahaha!
+E conseguimos tudo isso graças à
+pesquisa do Dr. Coulomb!
+Muito obrigado, Doutor.
+
+Golden
+Muahahaha!
+
+Hahahaha!
+
+------------------------------------------------------------
+
+Apresentação dos personagens
+
+Kou
+É um garoto de sangue quente que
+adora aventuras e que tem nervos
+de aço. Ele controla o Sync de tipo ataque "Laiten".
+
+Kasumi
+Neta do Dr. Coulomb. É amiga de
+infância de Kou e é uma garota adorável.
+Ela controla o Sync de tipo animal "Hayabusa".
+
+Miu
+Ela é a divindade guardiã de uma
+vila remota. É uma jovem sacerdotisa
+que só simpatiza com o Sync de
+tipo demônio "Shoki".
+
+Ein
+É um ciborgue de combate baseado em um Sync.
+Ele luta para se vingar da Fundação de
+Golden, que o modificou.
+
+Jin
+Irmão de Kasumi. Usa o Sync de tipo ataque
+"Shinden" e nutre uma rivalidade com Kou.
+
+Shiden
+É um Sync do tipo demônio que contém a chave
+secreta para Ark. Continua adormecido desde
+quando foi escavado pela Fundação de Golden.
+
+Gustav
+É um enorme guerreiro com inúmeras armas
+pesadas embutidas em seu corpo. Foi contratado pela
+Fundação de Golden por causa de suas habilidades.
+
+Jingorou
+Mestre espadachim que viaja livremente entre os países.
+Foi contratado pela Fundação de Golden por muito dinheiro.
+Empunha uma espada ligeiramente grande.
+
+Senka
+Mestre em artes marciais, ela confunde os adversários
+com seus movimentos rápidos. É especializada em
+ataques com seu leque gigante.
+
+Mudoh
+Misterioso Xamã que usa magia para
+confundir os oponentes com fumaça.
+Especialista em ataques de ilusão.
+
+Zwei
+É um ciborgue de combate criado pelo Dr. Farad.
+Não tem emoções e segue fielmente as ordens de
+seu mestre.
+
+Dr. Farad
+É um cientista genial que fará de tudo
+para alcançar suas ambições. É rival
+do Dr. Coulomb e almeja alcançar Ark
+por meio da Fundação de Golden.
+
+Dr. Coulomb
+Figura líder na pesquisa dos Sync.
+Ele se opõe ao Dr. Farad, que quer chegar até Ark,
+e trabalha para impedir os planos da Fundação.
+
+Senhor Golden
+Comandante da Fundação Golden.
+A pedido do Dr. Farad, ele planeja
+obter o tesouro de Ark.
+
+-----------------------------------------------------------
+
+Seleção de fases 1
+
+Seleção de fases
+
+s046
+Coulomb
+De acordo com dados que
+obtive, encontraram algumas
+tabuletas misteriosas que
+podem ter relação com Ark.
+
+s047
+Coulomb
+A Fundação de Golden também
+deve ter farejado isso, e se
+for verdade, não mediremos
+esforços para alcançá-las.
+
+s048
+Coulomb
+Temos que proteger as tabuletas
+das mãos da Fundação!
+
+s049
+Coulomb
+Uma das tabuletas escavadas
+parece estar na cidade de
+Kazan.
+Recebi informações de que a
+Fundação se infiltrou na
+cidade em busca da tabuleta.
+
+s050
+Coulomb
+Não deixe que eles peguem a
+tabuleta!
+Conto com você!
+
+s056
+Coulomb
+Recebi informações de que os
+homens da Fundação estão
+procurando uma das tabuletas
+nas Ruínas de Gu.
+
+s050
+Coulomb
+Não deixe que eles peguem a
+tabuleta!
+Conto com você!
+
+s059
+Recebi informações de que a
+Fundação de Golden usou um
+navio de guerra para buscar
+a tabuleta encontrada no fundo
+do Lago Mera.
+
+s050
+Coulomb
+Não deixe que eles peguem a
+tabuleta!
+Conto com você!
+
+s064
+Coulomb
+Soubemos que encontraram uma tabuleta
+na Mina Ragu e um pequeno bando da
+Fundação de Golden invadiu a mina.
+
+s050
+Coulomb
+Não deixe que eles peguem a
+tabuleta!
+Conto com você!
+
+s067
+Coulomb
+Parece que eles estão indo para
+Ark usando a recém-construída
+nave de guerra Enigma.
+
+s068
+Coulomb
+Se nos apressarmos em chegar
+na base da Fundação de Golden,
+poderemos impedir o lançamento
+da Enigma.
+
+s069
+Coulomb
+Eles não podem descobrir os
+segredos de Ark!
+Conto com você!
+
+s074
+Coulomb
+A Enigma decolou...?
+
+s075
+Coulomb
+Não. Ainda é cedo para desistir!
+Se pelo menos pudéssemos tomar
+as tabuletas deles antes que
+chegassem a Ark...
+
+s076
+Coulomb
+Ah, então essa é a Ark...?
+Ela é mesmo uma arca voadora...
+A lenda era verdadeira!
+
+s077
+Coulomb
+Farad, você quer mesmo
+expor a Arca!?
+Você não pode fazer isso!
+Porque se isso acontecer, nós
+também embarcaremos na Arca!
+
+-----------------------------------------------------------
+
+Fase 1
+
+Gustav
+Como se atreve a fazer isso
+com os meus filhos!?
+
+Gustav
+Você vai pagar por isso!
+
+Gustav
+Me desculpe, irmã...
+
+Senka
+Ora, ora... Mas que bagunça é essa...?
+
+Senka
+Hum! Vamos dar uma pausa por aqui.
+Estamos só no começo.
+
+-------------------------------------------------------
+
+Fase 2
+
+Jingorou
+És um bom adversário para batalha...
+Portanto, eu o desafio!
+
+Jingorou
+Tu me derrotaste...
+...Fui nocauteado!
+
+-------------------------------------------------------
+
+Fase 3
+
+Senka
+Seja bem vindo à bordo!
+Este será o local da sua morte!
+Pessoal! Acabem logo com isso!
+
+Senka
+Eles são todos uns molengas!
+
+Senka
+Parece que agora eu não
+tenho mais escolha... Então,
+mostre-me o que sabe fazer!
+
+Senka
+Eu perdi...
+Você quer a tabuleta, né?
+Então tome!
+
+-------------------------------------------------------
+
+Fase 4
+
+Mudoh
+Mukiki...
+
+Mudoh
+Mugiiii...
+
+-------------------------------------------------------
+
+Seleção de fases 5
+
+Farad
+Hahahaha!
+Ora, ora... Há quanto tempo...!
+Entregue-me agora as
+tabuletas!
+
+Coulomb
+Nãooooo!!
+Não entregue as tabuletas
+para eles!
+
+Farad
+Hahahaha!
+Eu troco as tabuletas pela vida
+do Dr. Coulomb. Não é um mau negócio, né?
+
+Farad
+Portanto, me dê as tabuletas agora!
+
+Coulomb
+E-Espere, Jin!!
+
+Farad
+Hahahaha!
+Finalmente temos todas as tabuletas
+que precisamos! Agora as portas para
+Ark serão abertas!
+
+Farad
+Coulomb! Assim que conseguirmos
+desvendar os mistérios de Ark, deixaremos
+que você assista tudo com os dedos cruzados!
+
+Farad
+Hahahaha!
+
+------------------------------------------------------
+
+Fase 5
+
+Farad
+Hahahaha!
+Eu admiro a sua persistência!
+
+Farad
+Porém, já é tarde demais!
+As portas para Ark já estão abertas!
+Agora a glória está diante dos seus olhos!
+
+Farad
+Adeus, cavalheiros!
+Com sua licença!
+
+Farad
+Zwei!
+Encarregue-se do resto!
+Hahahaha!
+
+Zwei
+...
+
+Farad
+Seus desgraçados persistentes!
+Não imaginava que me seguiriam
+até aqui!
+
+Farad
+E mesmo assim, a elite dos cinco
+foi tão patética!
+
+Já que chegamos a isso, eu mesmo
+me encarrego de enviá-lo para o
+inferno!
+
+Farad
+Robô Gigante!!
+Hahahaha!
+
+Farad
+Maldito seja! Maldito seja!
+Maldito seja!!
+
+------------------------------------------------------
+
+Sala de chefes finais
+
+Gustav
+Vou exterminar todos vocês,
+bebezinhos!
+
+Jingorou
+Vou desafiá-lo mais uma vez!
+
+Senka
+Desculpe, mas não posso deixar
+você passar por aqui!
+
+Mudoh
+Hihihihi!!
+
+Zwei
+...
+
+Farad
+Maldito seja! Maldito seja!
+Maldito seja!!
+Agora estamos muito perto,
+Robô Gigante!!
+
+Jin
+...Tsc. E chegamos ao fim da linha.
+
+Jin
+Você não sabe, mas Shiden já fez
+parte de Ark no passado.
+
+Jin
+E por isso Shiden foi despertado
+pelas quatro tabuletas e Ark
+também apareceu.
+
+Jin
+Mas Ark não vai durar
+muito, agora que Shiden
+foi morto.
+
+Jin
+Graças a você, os meus
+planos de obter os segredos
+de Ark foram arruinados!
+
+Jin
+Mas não vou deixar que esses
+insetos levem a melhor sobre mim
+se eu apenas disser adeus.
+
+Jin
+...Tsc! Eu vou acabar com você!
+
+Jin
+...Tsc!
+Ainda vamos decidir isso
+um dia! Lembre-se disso!
+
+---------------------------------------------------------
+
+Final
+
+E então a aventura se encerra.
+
+Porém, enquanto houver o poder da
+antiga civilização que dorme em
+Canadyne, sempre existirão aqueles
+que tentarão usá-lo.
+
+E não há fim para os sonhos e
+ambições que movem as almas
+apaixonadas por aventura.
+
+A terra de Canadyne continua a
+cuidar dos sonhos e ambições das
+pessoas que lá vivem...
+
+---------------------------------------------------------
+
+Créditos
+
+Panzer Bandit
+
+Staff
+
+Elenco
+
+Kou    Riko Nayama
+
+Kasumi  Noriko Hitaka
+
+Miu    Kanoko Koike
+
+Ein    Kiyoshi Kogaki
+
+Jingorou Kenji Nomura
+
+Dr. Coulomb Kazuhisa Naba
+
+Gustav  Naoki Takamatsu
+
+Senka  Sakimi Sono
+
+Mudoh  Susumu Onizuka
+
+Jin    Sassai Sasaoka
+
+Sr. Golden  Kusunoki Nafuu
+
+Narração  Taei Kono
+
+Produção
+
+Fill in Coffee co.
+
+Masaya Kontani
+
+Hampleysoft co.
+
+Akira Kanaya
+
+Planejamento
+
+Masaharu Yamanaka
+
+Progressão
+
+Tadaki Yamada
+
+Game Design
+
+Masatoshi Imaizumi
+
+Desenho dos personagens
+
+Yoshitsune Izuna
+
+Programação
+
+Masaya Konya
+
+Toru Hosaka
+
+Takeshi Nakazato
+
+Tsutomu Yamasaki
+
+Gráficos
+
+Norihiro Sawada
+
+Takeshi Honda
+
+Som
+
+Kenta Watanabe
+
+Música de abertura "Asas dos Sonhos"
+
+Letra: Masayuki Kashi
+
+Composição: Kenta Watanabe
+
+Música: Tomoka Ogata
+
+Animação
+
+Jitensha Co.
+
+Mat Art
+
+Yoko Komiya
+
+Manami Koyama
+
+Cooperação
+
+TAB LTDA
+
+Som FM
+
+Estúdio CoCo
+
+Tanasawa Jikkisho Ltd.
+
+Agradecimentos Especiais

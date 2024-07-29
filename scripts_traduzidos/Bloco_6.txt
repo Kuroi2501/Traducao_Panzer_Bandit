@@ -1,0 +1,18 @@
+Senka{0a}
+Seja bem vindo a bordo!{0a}
+Este será o local da sua morte!{0a}
+Pessoal! Acabem logo com isso!{08}{00}{00}{00}
+------------------
+Senka{0a}
+Mas que bando de molengas!{08}{0d}{00}{00}{00}{00}
+------------------
+Senka{0a}
+Parece que agora eu não tenho mais{0a}
+escolha... Então mostre-me o que{0a}
+sabe fazer!{08}{00}{00}
+------------------
+Senka{0a}
+Eu perdi...{0a}
+Você quer a tabuleta, né?{0a}
+Então tome!{08}{00}{00}{00}{00}{00}{00}
+------------------

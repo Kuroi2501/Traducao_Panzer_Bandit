@@ -1,0 +1,10 @@
+Jingorou{0a}
+És um bom adversário...{0a}
+Portanto, eu desafio-te!{08}{00}
+------------------
+DST2C{00}{00}{00}
+------------------
+Jingorou{0a}
+Tu derrotaste-me...{0a}
+...Fui derrubado!{08}{00}{00}{00}{00}{00}
+------------------

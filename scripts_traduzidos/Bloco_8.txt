@@ -1,0 +1,43 @@
+DST4E{00}{00}{00}
+------------------
+ST04{5f}2{00}{00}
+------------------
+jin{00}
+------------------
+Farad{0a}
+Hahahaha!{0a}
+Ora, ora... Há quanto tempo...!{0a}
+Entregue-me agora as tabuletas!{08}{00}{00}{00}
+------------------
+Coulomb{0a}
+Nãoo!!{0a}
+Não as entregue a ele!{08}{00}{00}{00}{00}
+------------------
+Farad{0a}
+Hahahaha!{0a}
+Eu troco as tabuletas pela vida do{0a}
+Dr. Coulomb.{0a}
+Não é um mau negócio, é?{08}{0d}
+------------------
+Farad{0a}
+Agora me dê as tabuletas!{08}{00}{00}{00}
+------------------
+Coulomb{0a}
+E-Espere, Jin!!{08}{00}
+------------------
+Farad{0a}
+Hahahaha!{0a}
+Finalmente temos todas as tabuletas{0a}
+que precisamos!{0a}
+Agora as portas para Ark serão{0a}
+abertas!{08}{00}{00}{00}
+------------------
+Farad{0a}
+Coulomb! Quando desvendarmos{0a}
+os mistérios de Ark, deixaremos{0a}
+você assistir tudo com os dedos{0a}
+cruzados!{08}{00}
+------------------
+Farad{0a}
+Hahahaha!{08}{00}{00}{00}
+------------------

@@ -1,0 +1,3 @@
+Inserter_panzer.exe
+cd kisindat_reimporter
+Reimportar.bat

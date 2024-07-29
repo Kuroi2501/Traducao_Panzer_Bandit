@@ -1,0 +1,93 @@
+Coulomb{0a}
+De acordo com os dados que obtive,{0a}
+encontraram algumas tabuletas{0a}
+misteriosas que podem ter relação{0a}
+com Ark.{08}{0d}
+
+Coulomb{0a}
+A Fundação de Golden também deve{0a}
+ter farejado isso, e se for verdade,{0a}
+não mediremos esforços para{0a}
+alcançá-las.{08}{0d}
+
+Coulomb{0a}
+Temos que proteger as tabuletas das{0a}
+mãos da Fundação!{08}{00}{00}{00}
+------------------
+Coulomb{0a}
+Uma das tabuletas escavadas parece{0a}
+estar na cidade de Kazan.{0a}
+Recebi informações de que a{0a}
+Fundação se infiltrou na cidade em{0a}
+busca da tabuleta.{08}{0d}
+
+Coulomb{0a}
+Não deixe que eles peguem a{0a}
+tabuleta!{0a}
+Conto com você!{08}{00}{00}{00}{00}
+------------------
+Coulomb{0a}
+Recebi informações de que homens{0a}
+da Fundação estão a procura de uma{0a}
+das tabuletas nas Ruínas de Guu.{08}{0d}
+
+Coulomb{0a}
+Não deixe que eles peguem a{0a}
+tabuleta!{0a}
+Conto com você!{08}{00}
+------------------
+Coulomb{0a}
+Recebi informações de que a{0a}
+Fundação de Golden usou um navio{0a}
+de guerra para buscar a tabuleta{0a}
+achada no fundo do Lago Mera.{08}{0d}
+
+Coulomb{0a}
+Não deixe que eles peguem a{0a}
+tabuleta!{0a}
+Conto com você!{08}{00}{00}
+------------------
+Coulomb{0a}
+Soubemos que encontraram uma{0a}
+tabuleta na Mina Ragu e um pequeno{0a}
+bando da Fundação invadiu a mina.{08}{0d}
+
+Coulomb{0a}
+Não deixe que eles peguem a{0a}
+tabuleta!{0a}
+Conto com você!{08}{00}{00}{00}{00}
+------------------
+Coulomb{0a}
+Acho que eles vão para{0a}
+Ark usando a recém-construída{0a}
+nave de guerra Enigma.{08}{0d}
+
+Coulomb{0a}
+Se corrermos até a base da{0a}
+Fundação, podemos impedir o{0a}
+lançamento da Enigma.{08}{0d}
+
+Coulomb{0a}
+Eles não podem descobrir os{0a}
+segredos de Ark!{0a}
+Conto com você!{08}{00}{00}{00}{00}
+------------------
+Coulomb{0a}
+A Enigma decolou?{08}{0d}
+
+Coulomb{0a}
+Não. Ainda é cedo para{0a}
+desistir! Se pudéssemos tomar{0a}
+as tabuletas antes deles{0a}
+chegarem a Ark...{08}{00}{00}
+------------------
+Coulomb{0a}
+Então isso é Ark?{0a}
+Ela é mesmo uma arca...{0a}
+A lenda era verdadeira!{08}{0d}
+
+Coulomb{0a}
+Farad, você vai mesmo expor{0a}
+a Arca!? Se fizer isso, nós{0a}
+também entraremos nela!{08}{00}{00}{00}
+------------------
