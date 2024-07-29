@@ -224,6 +224,7 @@ void Escolhe_bloco(int seletor){
 	            parametros = le_bloco(nome);
 	            Inserter(caminho_trad, parametros, opc_convertido, caminho_bin);
 	            strcpy(caminho_bin, "");
+	            getch();
 	            break;
         	}
 	        if(opc == 15){
