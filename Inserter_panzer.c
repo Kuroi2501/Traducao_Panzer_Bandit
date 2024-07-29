@@ -164,6 +164,8 @@ void Escolhe_bloco(int seletor){
         printf("\t 15. Sair\n");
         printf("\t 0. Todos\n");
         scanf("%d", &opc);
+        
+        strcpy(caminho_bin, "Binarios\\");
 		
 		if(opc == 1){
 			strcpy(nome_bin, "DEMO1.BIN");
@@ -221,6 +223,7 @@ void Escolhe_bloco(int seletor){
 
 	            parametros = le_bloco(nome);
 	            Inserter(caminho_trad, parametros, opc_convertido, caminho_bin);
+	            strcpy(caminho_bin, "");
 	            break;
         	}
 	        if(opc == 15){
